@@ -5,7 +5,7 @@
 
 
 
-###Configs:
+### Configs:
 #### In the terminal execute "npm run dev" and "npm run build:watch" to initiate the API;
 #### With Postman, Insomnia or another API Client, create a Post with a JSON that contains "OriginURL": "(URL to be shortened)"
 #### Send the Post, will have a response with the shortened url.

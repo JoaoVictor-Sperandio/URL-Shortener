@@ -1,7 +1,7 @@
 # URL Shortener
 ## DIO - PROJECT
 
-## A shortener API created as a project for DIO BootCamp NODE.js Module.
+## A shortener URL created as a project for DIO BootCamp NODE.js Module.
 
 
 

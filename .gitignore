@@ -9,6 +9,10 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
+# Directory with API_URL and MONGO_CONNECTION
+Constants.ts
+Constants.js
+
 # Runtime data
 pids
 *.pid
